@@ -1,0 +1,7 @@
+nano programa.c 
+<stdio.h>
+int (){
+printf("xd");
+}
+return 0
+}
